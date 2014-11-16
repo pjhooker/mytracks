@@ -1,0 +1,2099 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>mapbook</name>
+<Schema name="mapbook" id="mapbook">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="field_1" type="float"></SimpleField>
+	<SimpleField name="field_2" type="float"></SimpleField>
+	<SimpleField name="Name" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Basiglio - Polo Culturale \u201cIl Mulino di Vione\u201d</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Basiglio - Polo Culturale \u201cIl Mulino di Vione\u201d</SimpleData>
+		<SimpleData name="field_1">45.360931299999997</SimpleData>
+		<SimpleData name="field_2">9.156761500000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1567615,45.3609313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rozzano - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Rozzano - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.375362000000003</SimpleData>
+		<SimpleData name="field_2">9.143057000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.143057,45.375362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Donato - Cinema Troisi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">San Donato - Cinema Troisi</SimpleData>
+		<SimpleData name="field_1">45.409240199999999</SimpleData>
+		<SimpleData name="field_2">9.268486700000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2684867,45.4092402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa delle Associazioni</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Casa delle Associazioni</SimpleData>
+		<SimpleData name="field_1">45.409713099999998</SimpleData>
+		<SimpleData name="field_2">9.173852100000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1738521,45.4097131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Donato - Biblioteca Comunale Simona Orlandi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">San Donato - Biblioteca Comunale Simona Orlandi</SimpleData>
+		<SimpleData name="field_1">45.418280899999999</SimpleData>
+		<SimpleData name="field_2">9.268862400000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2688624,45.4182809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quinto Palazzo ENI</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Quinto Palazzo ENI</SimpleData>
+		<SimpleData name="field_1">45.423075900000001</SimpleData>
+		<SimpleData name="field_2">9.255288500000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2552885,45.4230759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Sant'Ambrogio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Sant'Ambrogio</SimpleData>
+		<SimpleData name="field_1">45.430926999999997</SimpleData>
+		<SimpleData name="field_2">9.163095999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.163096,45.430927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nocetum</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Nocetum</SimpleData>
+		<SimpleData name="field_1">45.431333700000003</SimpleData>
+		<SimpleData name="field_2">9.224696700000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2246967,45.4313337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barrio's</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Barrio's</SimpleData>
+		<SimpleData name="field_1">45.432196200000000</SimpleData>
+		<SimpleData name="field_2">9.152060199999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1520602,45.4321962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Fra Cristoforo</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Fra Cristoforo</SimpleData>
+		<SimpleData name="field_1">45.435943999999999</SimpleData>
+		<SimpleData name="field_2">9.172570000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.17257,45.435944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Oglio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Oglio</SimpleData>
+		<SimpleData name="field_1">45.440291999999999</SimpleData>
+		<SimpleData name="field_2">9.218256000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.218256,45.440292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 IULM</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 IULM</SimpleData>
+		<SimpleData name="field_1">45.442374200000003</SimpleData>
+		<SimpleData name="field_2">9.163487999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.163488,45.4423742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IED</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">IED</SimpleData>
+		<SimpleData name="field_1">45.443854999999999</SimpleData>
+		<SimpleData name="field_2">9.196420000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.19642,45.443855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Tibaldi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Tibaldi</SimpleData>
+		<SimpleData name="field_1">45.444538000000001</SimpleData>
+		<SimpleData name="field_2">9.183285000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.183285,45.444538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Radici e le Ali</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Le Radici e le Ali</SimpleData>
+		<SimpleData name="field_1">45.444960000000002</SimpleData>
+		<SimpleData name="field_2">9.130860000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.13086,45.44496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parrocchia Sant Curato d\u2019Ars</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Parrocchia Sant Curato d\u2019Ars</SimpleData>
+		<SimpleData name="field_1">45.446578700000003</SimpleData>
+		<SimpleData name="field_2">9.136627499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1366275,45.4465787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Il Mio Libro</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Il Mio Libro</SimpleData>
+		<SimpleData name="field_1">45.447026600000001</SimpleData>
+		<SimpleData name="field_2">9.212515399999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2125154,45.4470266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Lorenteggio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Lorenteggio</SimpleData>
+		<SimpleData name="field_1">45.448799000000001</SimpleData>
+		<SimpleData name="field_2">9.133219000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.133219,45.448799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ex Fornace di via Gola</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Ex Fornace di via Gola</SimpleData>
+		<SimpleData name="field_1">45.448929000000000</SimpleData>
+		<SimpleData name="field_2">9.177175000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.177175,45.448929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chiesetta di S. Protaso</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Chiesetta di S. Protaso</SimpleData>
+		<SimpleData name="field_1">45.449053799999987</SimpleData>
+		<SimpleData name="field_2">9.133501799999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1335018,45.449053799999987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Associazione Sportiva e Culturale La Tigre Nera</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Associazione Sportiva e Culturale La Tigre Nera</SimpleData>
+		<SimpleData name="field_1">45.449550700000003</SimpleData>
+		<SimpleData name="field_2">9.208606000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.208606,45.4495507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa delle Arti - Spazio Alda Merini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Casa delle Arti - Spazio Alda Merini</SimpleData>
+		<SimpleData name="field_1">45.449595600000002</SimpleData>
+		<SimpleData name="field_2">9.173744100000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1737441,45.4495956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archivio Dedalus</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Archivio Dedalus</SimpleData>
+		<SimpleData name="field_1">45.449753000000001</SimpleData>
+		<SimpleData name="field_2">9.182174000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.182174,45.449753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spazio culturale SeiCentro</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Spazio culturale SeiCentro</SimpleData>
+		<SimpleData name="field_1">45.449895400000003</SimpleData>
+		<SimpleData name="field_2">9.150808899999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1508089,45.4498954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fondazione Gianfranco Ferr\u00e9</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Fondazione Gianfranco Ferr\u00e9</SimpleData>
+		<SimpleData name="field_1">45.450530999999998</SimpleData>
+		<SimpleData name="field_2">9.157225000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.157225,45.450531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cascina Cuccagna</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cascina Cuccagna</SimpleData>
+		<SimpleData name="field_1">45.450969999999998</SimpleData>
+		<SimpleData name="field_2">9.211380000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.21138,45.45097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>car2go</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">car2go</SimpleData>
+		<SimpleData name="field_1">45.452113900000001</SimpleData>
+		<SimpleData name="field_2">9.178912100000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1789121,45.4521139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>QC Terme Milano Events</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">QC Terme Milano Events</SimpleData>
+		<SimpleData name="field_1">45.452346200000001</SimpleData>
+		<SimpleData name="field_2">9.201682399999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2016824,45.4523462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Oscar</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Oscar</SimpleData>
+		<SimpleData name="field_1">45.452377200000001</SimpleData>
+		<SimpleData name="field_2">9.216727700000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2167277,45.4523772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Individuals</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Individuals</SimpleData>
+		<SimpleData name="field_1">45.452809899999998</SimpleData>
+		<SimpleData name="field_2">9.174529500000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1745295,45.4528099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paper&amp;People</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Paper&amp;People</SimpleData>
+		<SimpleData name="field_1">45.452914499999999</SimpleData>
+		<SimpleData name="field_2">9.212347699999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2123477,45.4529145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tongs Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Tongs Bar</SimpleData>
+		<SimpleData name="field_1">45.452969000000003</SimpleData>
+		<SimpleData name="field_2">9.173439000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.173439,45.452969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Il Taglio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Il Taglio</SimpleData>
+		<SimpleData name="field_1">45.453038799999987</SimpleData>
+		<SimpleData name="field_2">9.173860099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1738601,45.453038799999987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agharti</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Agharti</SimpleData>
+		<SimpleData name="field_1">45.453094200000002</SimpleData>
+		<SimpleData name="field_2">9.172102499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1721025,45.4530942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>You Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">You Bar</SimpleData>
+		<SimpleData name="field_1">45.453222500000003</SimpleData>
+		<SimpleData name="field_2">9.171703000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.171703,45.4532225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPEN more than books</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">OPEN more than books</SimpleData>
+		<SimpleData name="field_1">45.453259000000003</SimpleData>
+		<SimpleData name="field_2">9.203146000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.203146,45.453259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Franco Parenti</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Franco Parenti</SimpleData>
+		<SimpleData name="field_1">45.453758000000001</SimpleData>
+		<SimpleData name="field_2">9.206770000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.20677,45.453758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Franco Parenti</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Franco Parenti</SimpleData>
+		<SimpleData name="field_1">45.453760299999999</SimpleData>
+		<SimpleData name="field_2">9.206769800000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2067698,45.4537603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Franco Parenti - Foyer alto</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Franco Parenti - Foyer alto</SimpleData>
+		<SimpleData name="field_1">45.453760299999999</SimpleData>
+		<SimpleData name="field_2">9.206769800000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2067698,45.4537603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Franco Parenti</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Franco Parenti</SimpleData>
+		<SimpleData name="field_1">45.453760299999999</SimpleData>
+		<SimpleData name="field_2">9.206769800000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2067698,45.4537603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Vigentina</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Vigentina</SimpleData>
+		<SimpleData name="field_1">45.453811999999999</SimpleData>
+		<SimpleData name="field_2">9.196111000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.196111,45.453812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auditorium Lattuada</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Auditorium Lattuada</SimpleData>
+		<SimpleData name="field_1">45.454230000000003</SimpleData>
+		<SimpleData name="field_2">9.195940000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.19594,45.45423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salone Arci di Solari 40</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Salone Arci di Solari 40</SimpleData>
+		<SimpleData name="field_1">45.454268999999996</SimpleData>
+		<SimpleData name="field_2">9.159343000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.159343,45.454269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Studio Bellini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Studio Bellini</SimpleData>
+		<SimpleData name="field_1">45.454609300000001</SimpleData>
+		<SimpleData name="field_2">9.202403000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.202403,45.4546093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Calvairate</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Calvairate</SimpleData>
+		<SimpleData name="field_1">45.454723000000001</SimpleData>
+		<SimpleData name="field_2">9.220376999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.220377,45.454723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Monti in citt\u00e0</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Monti in citt\u00e0</SimpleData>
+		<SimpleData name="field_1">45.454742000000003</SimpleData>
+		<SimpleData name="field_2">9.203925000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.203925,45.454742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Diocesano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Diocesano</SimpleData>
+		<SimpleData name="field_1">45.455246000000002</SimpleData>
+		<SimpleData name="field_2">9.180624999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.180625,45.455246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria 121+ Corraini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria 121+ Corraini</SimpleData>
+		<SimpleData name="field_1">45.455283999999999</SimpleData>
+		<SimpleData name="field_2">9.167740000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.16774,45.455284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Piano C</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Piano C</SimpleData>
+		<SimpleData name="field_1">45.455304499999997</SimpleData>
+		<SimpleData name="field_2">9.214632399999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2146324,45.4553045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nuovo Teatro Ariberto</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Nuovo Teatro Ariberto</SimpleData>
+		<SimpleData name="field_1">45.457194999999999</SimpleData>
+		<SimpleData name="field_2">9.174113999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.174114,45.457195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Preziosessenze</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Preziosessenze</SimpleData>
+		<SimpleData name="field_1">45.458083799999997</SimpleData>
+		<SimpleData name="field_2">9.177147099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1771471,45.4580838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palazzina Liberty</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Palazzina Liberty</SimpleData>
+		<SimpleData name="field_1">45.458703300000003</SimpleData>
+		<SimpleData name="field_2">9.216846500000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2168465,45.4587033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Cortina</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Cortina</SimpleData>
+		<SimpleData name="field_1">45.459217000000002</SimpleData>
+		<SimpleData name="field_2">9.172636000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.172636,45.459217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bistr\u00f2 del Tempo Ritrovato</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Bistr\u00f2 del Tempo Ritrovato</SimpleData>
+		<SimpleData name="field_1">45.459229899999997</SimpleData>
+		<SimpleData name="field_2">9.165199800000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1651998,45.4592299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Touring Club Italiano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Touring Club Italiano</SimpleData>
+		<SimpleData name="field_1">45.459468600000008</SimpleData>
+		<SimpleData name="field_2">9.187987500000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1879875,45.4594686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Societ\u00e0 Umanitaria</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Societ\u00e0 Umanitaria</SimpleData>
+		<SimpleData name="field_1">45.460009300000003</SimpleData>
+		<SimpleData name="field_2">9.202121300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2021213,45.4600093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Societ\u00e0 Umanitaria - Auditorium</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Societ\u00e0 Umanitaria - Auditorium</SimpleData>
+		<SimpleData name="field_1">45.460009300000003</SimpleData>
+		<SimpleData name="field_2">9.202121300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2021213,45.4600093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Societ\u00e0 Umanitaria</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Societ\u00e0 Umanitaria</SimpleData>
+		<SimpleData name="field_1">45.460009300000003</SimpleData>
+		<SimpleData name="field_2">9.202121300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2021213,45.4600093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Societ\u00e0 Umanitaria</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Societ\u00e0 Umanitaria</SimpleData>
+		<SimpleData name="field_1">45.460009300000003</SimpleData>
+		<SimpleData name="field_2">9.202121300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2021213,45.4600093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Societ\u00e0 Umanitaria</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Societ\u00e0 Umanitaria</SimpleData>
+		<SimpleData name="field_1">45.460009300000003</SimpleData>
+		<SimpleData name="field_2">9.202121300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2021213,45.4600093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spazio scopriCoop Antonio Bertolini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Spazio scopriCoop Antonio Bertolini</SimpleData>
+		<SimpleData name="field_1">45.460011000000002</SimpleData>
+		<SimpleData name="field_2">9.089961000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.089961,45.460011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rotonda di via Besana</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Rotonda di via Besana</SimpleData>
+		<SimpleData name="field_1">45.460262000000000</SimpleData>
+		<SimpleData name="field_2">9.205235000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.205235,45.460262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MUBA Rotonda di via Besana</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">MUBA Rotonda di via Besana</SimpleData>
+		<SimpleData name="field_1">45.460263200000000</SimpleData>
+		<SimpleData name="field_2">9.205235399999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2052354,45.4602632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli Studi di Milano - Cortili Storici</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli Studi di Milano - Cortili Storici</SimpleData>
+		<SimpleData name="field_1">45.460374999999999</SimpleData>
+		<SimpleData name="field_2">9.194055900000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1940559,45.460375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frigoriferi Milanesi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Frigoriferi Milanesi</SimpleData>
+		<SimpleData name="field_1">45.460597100000001</SimpleData>
+		<SimpleData name="field_2">9.226739499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2267395,45.4605971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palazzo del Ghiaccio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Palazzo del Ghiaccio</SimpleData>
+		<SimpleData name="field_1">45.460636299999997</SimpleData>
+		<SimpleData name="field_2">9.230442800000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2304428,45.4606363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Studio Museo Francesco Messina</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Studio Museo Francesco Messina</SimpleData>
+		<SimpleData name="field_1">45.460790000000003</SimpleData>
+		<SimpleData name="field_2">9.181559999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.18156,45.46079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli Studi di Milano - piazza Sant'Alessandro</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli Studi di Milano - piazza Sant'Alessandro</SimpleData>
+		<SimpleData name="field_1">45.460912299999997</SimpleData>
+		<SimpleData name="field_2">9.186290899999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1862909,45.4609123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sinagoga Centrale</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Sinagoga Centrale</SimpleData>
+		<SimpleData name="field_1">45.460920100000003</SimpleData>
+		<SimpleData name="field_2">9.198520200000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1985202,45.4609201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci - Spazio Olona</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci - Spazio Olona</SimpleData>
+		<SimpleData name="field_1">45.460993299999998</SimpleData>
+		<SimpleData name="field_2">9.172302300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1723023,45.4609933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</SimpleData>
+		<SimpleData name="field_1">45.460993299999998</SimpleData>
+		<SimpleData name="field_2">9.172302300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1723023,45.4609933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo Da Vinci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo Da Vinci</SimpleData>
+		<SimpleData name="field_1">45.460993299999998</SimpleData>
+		<SimpleData name="field_2">9.172302300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1723023,45.4609933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo Da Vinci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo Da Vinci</SimpleData>
+		<SimpleData name="field_1">45.460999000000001</SimpleData>
+		<SimpleData name="field_2">9.172300000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1723,45.460999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Cavallerizza</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">La Cavallerizza</SimpleData>
+		<SimpleData name="field_1">45.461016800000003</SimpleData>
+		<SimpleData name="field_2">9.212309700000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2123097,45.4610168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli Studi di Milano - Settore Didattico</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli Studi di Milano - Settore Didattico</SimpleData>
+		<SimpleData name="field_1">45.461086199999997</SimpleData>
+		<SimpleData name="field_2">9.194494000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.194494,45.4610862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli Studi di Milano - Palazzo Greppi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli Studi di Milano - Palazzo Greppi</SimpleData>
+		<SimpleData name="field_1">45.461376000000001</SimpleData>
+		<SimpleData name="field_2">9.193279000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.193279,45.461376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Societ\u00e0 d'Incoraggiamento d'Arti e Mestieri</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Societ\u00e0 d'Incoraggiamento d'Arti e Mestieri</SimpleData>
+		<SimpleData name="field_1">45.461718099999999</SimpleData>
+		<SimpleData name="field_2">9.182697299999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1826973,45.4617181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Societ\u00e0 d'Incoraggiamento d'Arti e Mestieri - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Societ\u00e0 d'Incoraggiamento d'Arti e Mestieri - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.461720000000000</SimpleData>
+		<SimpleData name="field_2">9.182696999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.182697,45.46172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Claudiana</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Claudiana</SimpleData>
+		<SimpleData name="field_1">45.461792000000003</SimpleData>
+		<SimpleData name="field_2">9.197250000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.19725,45.461792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stone Italiana - Spazio Espositivo</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Stone Italiana - Spazio Espositivo</SimpleData>
+		<SimpleData name="field_1">45.461810800000002</SimpleData>
+		<SimpleData name="field_2">9.186648300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1866483,45.4618108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Sormani</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Sormani</SimpleData>
+		<SimpleData name="field_1">45.462032000000001</SimpleData>
+		<SimpleData name="field_2">9.197736000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.197736,45.462032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</SimpleData>
+		<SimpleData name="field_1">45.462686699999999</SimpleData>
+		<SimpleData name="field_2">9.171088400000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1710884,45.4626867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ambrosianeum</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Ambrosianeum</SimpleData>
+		<SimpleData name="field_1">45.462859999999999</SimpleData>
+		<SimpleData name="field_2">9.192793999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.192794,45.46286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ente del Turismo delle Fiandre</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Ente del Turismo delle Fiandre</SimpleData>
+		<SimpleData name="field_1">45.462889699999998</SimpleData>
+		<SimpleData name="field_2">9.187161300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1871613,45.4628897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria delle Donne</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria delle Donne</SimpleData>
+		<SimpleData name="field_1">45.462904599999987</SimpleData>
+		<SimpleData name="field_2">9.210382599999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2103826,45.462904599999987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Associazione Regionale Pugliesi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Associazione Regionale Pugliesi</SimpleData>
+		<SimpleData name="field_1">45.462904600000002</SimpleData>
+		<SimpleData name="field_2">9.210382600000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2103826,45.4629046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</SimpleData>
+		<SimpleData name="field_1">45.463018800000000</SimpleData>
+		<SimpleData name="field_2">9.171237099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1712371,45.4630188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</SimpleData>
+		<SimpleData name="field_1">45.463018800000000</SimpleData>
+		<SimpleData name="field_2">9.171237099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1712371,45.4630188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci</SimpleData>
+		<SimpleData name="field_1">45.463018800000000</SimpleData>
+		<SimpleData name="field_2">9.171237099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1712371,45.4630188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Baggio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Baggio</SimpleData>
+		<SimpleData name="field_1">45.463036000000002</SimpleData>
+		<SimpleData name="field_2">9.090847000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.090847,45.463036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 Cattolica del Sacro Cuore</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 Cattolica del Sacro Cuore</SimpleData>
+		<SimpleData name="field_1">45.463733099999999</SimpleData>
+		<SimpleData name="field_2">9.178302600000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1783026,45.4637331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Ambrosiana</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Ambrosiana</SimpleData>
+		<SimpleData name="field_1">45.463740999999999</SimpleData>
+		<SimpleData name="field_2">9.186145000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.186145,45.463741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Militare</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Militare</SimpleData>
+		<SimpleData name="field_1">45.464073700000000</SimpleData>
+		<SimpleData name="field_2">9.180712000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.180712,45.4640737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galleria Riccardo Crespi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Galleria Riccardo Crespi</SimpleData>
+		<SimpleData name="field_1">45.464320999999998</SimpleData>
+		<SimpleData name="field_2">9.173212899999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1732129,45.464321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fondazione Piero Portaluppi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Fondazione Piero Portaluppi</SimpleData>
+		<SimpleData name="field_1">45.464576999999998</SimpleData>
+		<SimpleData name="field_2">9.168673999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.168674,45.464577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loggia dei Mercanti</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Loggia dei Mercanti</SimpleData>
+		<SimpleData name="field_1">45.464626000000003</SimpleData>
+		<SimpleData name="field_2">9.188034999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.188035,45.464626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palazzo dei Giureconsulti</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Palazzo dei Giureconsulti</SimpleData>
+		<SimpleData name="field_1">45.464629100000003</SimpleData>
+		<SimpleData name="field_2">9.188032300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1880323,45.4646291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Jaca Book Citt\u00e0 Possibile</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Jaca Book Citt\u00e0 Possibile</SimpleData>
+		<SimpleData name="field_1">45.464633300000003</SimpleData>
+		<SimpleData name="field_2">9.150220900000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1502209,45.4646333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mondadori Megastore piazza Duomo 1</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Mondadori Megastore piazza Duomo 1</SimpleData>
+		<SimpleData name="field_1">45.464686999999998</SimpleData>
+		<SimpleData name="field_2">9.190022000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.190022,45.464687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palazzo Reale</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Palazzo Reale</SimpleData>
+		<SimpleData name="field_1">45.464706000000000</SimpleData>
+		<SimpleData name="field_2">9.188551000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.188551,45.464706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Libet</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Libet</SimpleData>
+		<SimpleData name="field_1">45.464746099999999</SimpleData>
+		<SimpleData name="field_2">9.175538599999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1755386,45.4647461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borsa Italiana - Palazzo Mezzanotte</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Borsa Italiana - Palazzo Mezzanotte</SimpleData>
+		<SimpleData name="field_1">45.464781799999997</SimpleData>
+		<SimpleData name="field_2">9.183280500000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1832805,45.4647818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emeroteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Emeroteca</SimpleData>
+		<SimpleData name="field_1">45.465200499999987</SimpleData>
+		<SimpleData name="field_2">9.158882499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1588825,45.465200499999987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Sicilia</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Sicilia</SimpleData>
+		<SimpleData name="field_1">45.465333399999999</SimpleData>
+		<SimpleData name="field_2">9.151923999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.151924,45.4653334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Piccolo Teatro Strehler</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Piccolo Teatro Strehler</SimpleData>
+		<SimpleData name="field_1">45.465421900000003</SimpleData>
+		<SimpleData name="field_2">9.185924300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1859243,45.4654219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ex Colorificio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Ex Colorificio</SimpleData>
+		<SimpleData name="field_1">45.465454000000001</SimpleData>
+		<SimpleData name="field_2">9.186515999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.186516,45.465454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institut fran\u00e7ais Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Institut fran\u00e7ais Milano</SimpleData>
+		<SimpleData name="field_1">45.465641400000003</SimpleData>
+		<SimpleData name="field_2">9.171534699999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1715347,45.4656414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fondazione Stelline</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Fondazione Stelline</SimpleData>
+		<SimpleData name="field_1">45.465645400000000</SimpleData>
+		<SimpleData name="field_2">9.172247600000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1722476,45.4656454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institut Fran\u00e7ais Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Institut Fran\u00e7ais Milano</SimpleData>
+		<SimpleData name="field_1">45.465648999999999</SimpleData>
+		<SimpleData name="field_2">9.171564000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.171564,45.465649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institut Fran\u00e7ais Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Institut Fran\u00e7ais Milano</SimpleData>
+		<SimpleData name="field_1">45.465648999999999</SimpleData>
+		<SimpleData name="field_2">9.171564000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.171564,45.465649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Instituto Cervantes</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Instituto Cervantes</SimpleData>
+		<SimpleData name="field_1">45.465763000000003</SimpleData>
+		<SimpleData name="field_2">9.185373000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.185373,45.465763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa della Cultura di Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Casa della Cultura di Milano</SimpleData>
+		<SimpleData name="field_1">45.465781999999997</SimpleData>
+		<SimpleData name="field_2">9.199336000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.199336,45.465782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Goethe Institut</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Goethe Institut</SimpleData>
+		<SimpleData name="field_1">45.465843000000000</SimpleData>
+		<SimpleData name="field_2">9.193538000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.193538,45.465843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Feltrinelli Piemonte</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Feltrinelli Piemonte</SimpleData>
+		<SimpleData name="field_1">45.465881000000003</SimpleData>
+		<SimpleData name="field_2">9.154930000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.15493,45.465881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli Studi di Milano - Facolt\u00e0 di Scienze politiche</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli Studi di Milano - Facolt\u00e0 di Scienze politiche</SimpleData>
+		<SimpleData name="field_1">45.465891599999999</SimpleData>
+		<SimpleData name="field_2">9.202810899999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2028109,45.4658916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Piccolo Teatro Grassi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Piccolo Teatro Grassi</SimpleData>
+		<SimpleData name="field_1">45.466403999999997</SimpleData>
+		<SimpleData name="field_2">9.184697999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.184698,45.466404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Piccolo Teatro Grassi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Piccolo Teatro Grassi</SimpleData>
+		<SimpleData name="field_1">45.466403999999997</SimpleData>
+		<SimpleData name="field_2">9.184697999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.184698,45.466404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auditorium San Fedele</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Auditorium San Fedele</SimpleData>
+		<SimpleData name="field_1">45.466437300000003</SimpleData>
+		<SimpleData name="field_2">9.192364800000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1923648,45.4664373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Internazionale Hoepli</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Internazionale Hoepli</SimpleData>
+		<SimpleData name="field_1">45.466442000000001</SimpleData>
+		<SimpleData name="field_2">9.192370000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.19237,45.466442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fondazione Carlo Maria Martini - Sala Ricci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Fondazione Carlo Maria Martini - Sala Ricci</SimpleData>
+		<SimpleData name="field_1">45.466670000000001</SimpleData>
+		<SimpleData name="field_2">9.191179999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.19118,45.46667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mondadori Megastore via Marghera</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Mondadori Megastore via Marghera</SimpleData>
+		<SimpleData name="field_1">45.466740100000003</SimpleData>
+		<SimpleData name="field_2">9.151587599999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1515876,45.4667401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ISPI Palazzo Clerici</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">ISPI Palazzo Clerici</SimpleData>
+		<SimpleData name="field_1">45.466749999999998</SimpleData>
+		<SimpleData name="field_2">9.187389999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.18739,45.46675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gallerie d'Italia</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Gallerie d'Italia</SimpleData>
+		<SimpleData name="field_1">45.467236000000000</SimpleData>
+		<SimpleData name="field_2">9.190459000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.190459,45.467236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Circolo Filologico</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Circolo Filologico</SimpleData>
+		<SimpleData name="field_1">45.467280000000002</SimpleData>
+		<SimpleData name="field_2">9.186950000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.18695,45.46728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Magenta - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Magenta - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.467372900000001</SimpleData>
+		<SimpleData name="field_2">8.882111099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.8821111,45.4673729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Centofiori</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Centofiori</SimpleData>
+		<SimpleData name="field_1">45.467391999999997</SimpleData>
+		<SimpleData name="field_2">9.216009000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.216009,45.467392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Circolo Filologico</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Circolo Filologico</SimpleData>
+		<SimpleData name="field_1">45.467522000000002</SimpleData>
+		<SimpleData name="field_2">9.186802000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.186802,45.467522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Circolo Filologico</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Circolo Filologico</SimpleData>
+		<SimpleData name="field_1">45.467522000000002</SimpleData>
+		<SimpleData name="field_2">9.186802000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.186802,45.467522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Dal Verme</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Dal Verme</SimpleData>
+		<SimpleData name="field_1">45.467528999999999</SimpleData>
+		<SimpleData name="field_2">9.181946999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.181947,45.467529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Poldi Pezzoli</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Poldi Pezzoli</SimpleData>
+		<SimpleData name="field_1">45.468268999999999</SimpleData>
+		<SimpleData name="field_2">9.191398000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.191398,45.468269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco - Info point centrale</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco - Info point centrale</SimpleData>
+		<SimpleData name="field_1">45.468449999999997</SimpleData>
+		<SimpleData name="field_2">9.179649999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.17965,45.46845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.468449999999997</SimpleData>
+		<SimpleData name="field_2">9.179649999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.17965,45.46845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fondazione Giangiacomo Feltrinelli</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Fondazione Giangiacomo Feltrinelli</SimpleData>
+		<SimpleData name="field_1">45.468528999999997</SimpleData>
+		<SimpleData name="field_2">9.190239000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.190239,45.468529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galleria Nuages</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Galleria Nuages</SimpleData>
+		<SimpleData name="field_1">45.468575000000001</SimpleData>
+		<SimpleData name="field_2">9.186194000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.186194,45.468575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Istituto dei Ciechi - Sala Barozzi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Istituto dei Ciechi - Sala Barozzi</SimpleData>
+		<SimpleData name="field_1">45.468864000000004</SimpleData>
+		<SimpleData name="field_2">9.204101000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.204101,45.468864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.469430299999999</SimpleData>
+		<SimpleData name="field_2">9.177690300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1776903,45.4694303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco - Fossati</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco - Fossati</SimpleData>
+		<SimpleData name="field_1">45.469430299999999</SimpleData>
+		<SimpleData name="field_2">9.177690300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1776903,45.4694303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco - Cortile delle Armi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco - Cortile delle Armi</SimpleData>
+		<SimpleData name="field_1">45.469430299999999</SimpleData>
+		<SimpleData name="field_2">9.177690300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1776903,45.4694303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco - Cortile della Rocchetta</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco - Cortile della Rocchetta</SimpleData>
+		<SimpleData name="field_1">45.469430299999999</SimpleData>
+		<SimpleData name="field_2">9.177690300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1776903,45.4694303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.469430299999999</SimpleData>
+		<SimpleData name="field_2">9.177690300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1776903,45.4694303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expo Gate</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Expo Gate</SimpleData>
+		<SimpleData name="field_1">45.469430299999999</SimpleData>
+		<SimpleData name="field_2">9.177690300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1776903,45.4694303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco - Portico dell\u2019Elefante - Area Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco - Portico dell\u2019Elefante - Area Bar</SimpleData>
+		<SimpleData name="field_1">45.469430299999999</SimpleData>
+		<SimpleData name="field_2">9.177690300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1776903,45.4694303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archivio di Stato</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Archivio di Stato</SimpleData>
+		<SimpleData name="field_1">45.469830000000002</SimpleData>
+		<SimpleData name="field_2">9.198190000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.19819,45.46983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Bagatti Valsecchi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Bagatti Valsecchi</SimpleData>
+		<SimpleData name="field_1">45.470126999999998</SimpleData>
+		<SimpleData name="field_2">9.195401000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.195401,45.470127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.470476200000000</SimpleData>
+		<SimpleData name="field_2">9.179332499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1793325,45.4704762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.470476200000000</SimpleData>
+		<SimpleData name="field_2">9.179332499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1793325,45.4704762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.470476200000000</SimpleData>
+		<SimpleData name="field_2">9.179332499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1793325,45.4704762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.470476200000000</SimpleData>
+		<SimpleData name="field_2">9.179332499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1793325,45.4704762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castello Sforzesco</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Castello Sforzesco</SimpleData>
+		<SimpleData name="field_1">45.470476200000000</SimpleData>
+		<SimpleData name="field_2">9.179332499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1793325,45.4704762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria dell'Automobile</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria dell'Automobile</SimpleData>
+		<SimpleData name="field_1">45.470917000000000</SimpleData>
+		<SimpleData name="field_2">9.201225000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.201225,45.470917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belleville. La scuola</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Belleville. La scuola</SimpleData>
+		<SimpleData name="field_1">45.471106399999996</SimpleData>
+		<SimpleData name="field_2">9.210083200000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2100832,45.4711064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palazzo Cusani</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Palazzo Cusani</SimpleData>
+		<SimpleData name="field_1">45.471155699999997</SimpleData>
+		<SimpleData name="field_2">9.187504400000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1875044,45.4711557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ex Chiesa di San Carpoforo</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Ex Chiesa di San Carpoforo</SimpleData>
+		<SimpleData name="field_1">45.471686800000008</SimpleData>
+		<SimpleData name="field_2">9.186015099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1860151,45.4716868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assografici</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Assografici</SimpleData>
+		<SimpleData name="field_1">45.471940400000001</SimpleData>
+		<SimpleData name="field_2">9.180577999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.180578,45.4719404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Nazionale Braidense</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Nazionale Braidense</SimpleData>
+		<SimpleData name="field_1">45.471992000000000</SimpleData>
+		<SimpleData name="field_2">9.187704000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.187704,45.471992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Triennale di Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Triennale di Milano</SimpleData>
+		<SimpleData name="field_1">45.472115000000002</SimpleData>
+		<SimpleData name="field_2">9.173374000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.173374,45.472115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fondazione Adolfo Pini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Fondazione Adolfo Pini</SimpleData>
+		<SimpleData name="field_1">45.472136999999996</SimpleData>
+		<SimpleData name="field_2">9.183916000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.183916,45.472137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Triennale</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Triennale</SimpleData>
+		<SimpleData name="field_1">45.472157000000003</SimpleData>
+		<SimpleData name="field_2">9.173451999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.173452,45.472157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo del Risorgimento</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo del Risorgimento</SimpleData>
+		<SimpleData name="field_1">45.472233000000003</SimpleData>
+		<SimpleData name="field_2">9.189883999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.189884,45.472233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Piccolo Teatro Studio Melato</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Piccolo Teatro Studio Melato</SimpleData>
+		<SimpleData name="field_1">45.472377100000003</SimpleData>
+		<SimpleData name="field_2">9.182900000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1829,45.4723771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Triennale</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Triennale</SimpleData>
+		<SimpleData name="field_1">45.472483599999997</SimpleData>
+		<SimpleData name="field_2">9.173797799999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1737978,45.4724836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo Civico di Storia Naturale</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Museo Civico di Storia Naturale</SimpleData>
+		<SimpleData name="field_1">45.473075999999999</SimpleData>
+		<SimpleData name="field_2">9.203624000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.203624,45.473076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Planetario</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Planetario</SimpleData>
+		<SimpleData name="field_1">45.473506999999998</SimpleData>
+		<SimpleData name="field_2">9.203988000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.203988,45.473507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Harar</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Harar</SimpleData>
+		<SimpleData name="field_1">45.473754999999997</SimpleData>
+		<SimpleData name="field_2">9.119776999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.119777,45.473755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Acquario Civico di Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Acquario Civico di Milano</SimpleData>
+		<SimpleData name="field_1">45.473998999999999</SimpleData>
+		<SimpleData name="field_2">9.180740000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.18074,45.473999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liceo Ginnasio Statale G. Parini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Liceo Ginnasio Statale G. Parini</SimpleData>
+		<SimpleData name="field_1">45.474293000000003</SimpleData>
+		<SimpleData name="field_2">9.188813000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.188813,45.474293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Parco Sempione</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Parco Sempione</SimpleData>
+		<SimpleData name="field_1">45.474612999999998</SimpleData>
+		<SimpleData name="field_2">9.174189999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.17419,45.474613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Venezia</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Venezia</SimpleData>
+		<SimpleData name="field_1">45.474995000000000</SimpleData>
+		<SimpleData name="field_2">9.208159999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.20816,45.474995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Argenteria Dabbene</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Argenteria Dabbene</SimpleData>
+		<SimpleData name="field_1">45.475244699999998</SimpleData>
+		<SimpleData name="field_2">9.187400900000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1874009,45.4752447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fondazione Rizzoli Corriere della Sera Sala Buzzati</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Fondazione Rizzoli Corriere della Sera Sala Buzzati</SimpleData>
+		<SimpleData name="field_1">45.475380000000001</SimpleData>
+		<SimpleData name="field_2">9.188160000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.18816,45.47538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spazio Oberdan</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Spazio Oberdan</SimpleData>
+		<SimpleData name="field_1">45.475414000000001</SimpleData>
+		<SimpleData name="field_2">9.203906999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.203907,45.475414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIME Pontificio Istituto Missioni Estere</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">PIME Pontificio Istituto Missioni Estere</SimpleData>
+		<SimpleData name="field_1">45.475522900000001</SimpleData>
+		<SimpleData name="field_2">9.145395100000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1453951,45.4755229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Parole e Pagine</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Parole e Pagine</SimpleData>
+		<SimpleData name="field_1">45.476854400000001</SimpleData>
+		<SimpleData name="field_2">9.191978100000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1919781,45.4768544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bloodbuster</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Bloodbuster</SimpleData>
+		<SimpleData name="field_1">45.477176999999998</SimpleData>
+		<SimpleData name="field_2">9.202112000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.202112,45.477177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Studio Gamba</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Studio Gamba</SimpleData>
+		<SimpleData name="field_1">45.478156899999988</SimpleData>
+		<SimpleData name="field_2">9.148893200000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1488932,45.478156899999988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Popolare di via Tadino</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Popolare di via Tadino</SimpleData>
+		<SimpleData name="field_1">45.478718000000001</SimpleData>
+		<SimpleData name="field_2">9.207426999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.207427,45.478718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa Museo Boschi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Casa Museo Boschi</SimpleData>
+		<SimpleData name="field_1">45.478933400000003</SimpleData>
+		<SimpleData name="field_2">9.211667300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2116673,45.4789334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Valvassori Peroni</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Valvassori Peroni</SimpleData>
+		<SimpleData name="field_1">45.479340000000001</SimpleData>
+		<SimpleData name="field_2">9.236544000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.236544,45.47934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Elfo Puccini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Elfo Puccini</SimpleData>
+		<SimpleData name="field_1">45.479404000000002</SimpleData>
+		<SimpleData name="field_2">9.209745000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.209745,45.479404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Elfo Puccini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Elfo Puccini</SimpleData>
+		<SimpleData name="field_1">45.479404000000002</SimpleData>
+		<SimpleData name="field_2">9.209745000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.209745,45.479404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teatro Elfo Puccini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Teatro Elfo Puccini</SimpleData>
+		<SimpleData name="field_1">45.479404000000002</SimpleData>
+		<SimpleData name="field_2">9.209745000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.209745,45.479404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chiesa Santa Maria Incoronata</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Chiesa Santa Maria Incoronata</SimpleData>
+		<SimpleData name="field_1">45.480057799999997</SimpleData>
+		<SimpleData name="field_2">9.186670299999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1866703,45.4800578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Internazionale Il Libro</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Internazionale Il Libro</SimpleData>
+		<SimpleData name="field_1">45.480463200000003</SimpleData>
+		<SimpleData name="field_2">9.213022499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2130225,45.4804632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SpazioStudio13</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">SpazioStudio13</SimpleData>
+		<SimpleData name="field_1">45.481658400000001</SimpleData>
+		<SimpleData name="field_2">9.172524700000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1725247,45.4816584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria dei Ragazzi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria dei Ragazzi</SimpleData>
+		<SimpleData name="field_1">45.482005999999998</SimpleData>
+		<SimpleData name="field_2">9.210378000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.210378,45.482006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Galleria Carla Sozzani</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Galleria Carla Sozzani</SimpleData>
+		<SimpleData name="field_1">45.482343999999998</SimpleData>
+		<SimpleData name="field_2">9.187434699999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1874347,45.482344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spazio Scopricoop</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Spazio Scopricoop</SimpleData>
+		<SimpleData name="field_1">45.482616000000000</SimpleData>
+		<SimpleData name="field_2">9.158547000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.158547,45.482616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Hellisbook</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Hellisbook</SimpleData>
+		<SimpleData name="field_1">45.482770500000001</SimpleData>
+		<SimpleData name="field_2">9.165727700000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1657277,45.4827705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>aMAZElab</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">aMAZElab</SimpleData>
+		<SimpleData name="field_1">45.487570599999998</SimpleData>
+		<SimpleData name="field_2">9.185466099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1854661,45.4875706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spazio Zona K</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Spazio Zona K</SimpleData>
+		<SimpleData name="field_1">45.488200999999997</SimpleData>
+		<SimpleData name="field_2">9.191312999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.191313,45.488201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Segrate - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Segrate - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.490498500000001</SimpleData>
+		<SimpleData name="field_2">9.292615000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.292615,45.4904985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laboratorio Luigi Cagliani</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Laboratorio Luigi Cagliani</SimpleData>
+		<SimpleData name="field_1">45.491285699999999</SimpleData>
+		<SimpleData name="field_2">9.187773300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1877733,45.4912857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Accursio</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Accursio</SimpleData>
+		<SimpleData name="field_1">45.491688000000003</SimpleData>
+		<SimpleData name="field_2">9.146050000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.14605,45.491688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Gallaratese</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Gallaratese</SimpleData>
+		<SimpleData name="field_1">45.496532000000002</SimpleData>
+		<SimpleData name="field_2">9.115093999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.115094,45.496532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Zara</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Zara</SimpleData>
+		<SimpleData name="field_1">45.497360000000000</SimpleData>
+		<SimpleData name="field_2">9.195876000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.195876,45.49736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Integral Transpersonal Institute</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Integral Transpersonal Institute</SimpleData>
+		<SimpleData name="field_1">45.497799999999998</SimpleData>
+		<SimpleData name="field_2">9.193068200000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1930682,45.4978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Speranza X Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Speranza X Milano</SimpleData>
+		<SimpleData name="field_1">45.498934200000001</SimpleData>
+		<SimpleData name="field_2">9.194352500000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1943525,45.4989342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Villapizzone</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Villapizzone</SimpleData>
+		<SimpleData name="field_1">45.499831999999998</SimpleData>
+		<SimpleData name="field_2">9.147411000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.147411,45.499832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Crescenzago</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Crescenzago</SimpleData>
+		<SimpleData name="field_1">45.500388999999998</SimpleData>
+		<SimpleData name="field_2">9.239070999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.239071,45.500389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Libreria Edizioni Unicopli</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Libreria Edizioni Unicopli</SimpleData>
+		<SimpleData name="field_1">45.503551000000002</SimpleData>
+		<SimpleData name="field_2">9.161758000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.161758,45.503551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Dergano - Bovisa</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Dergano - Bovisa</SimpleData>
+		<SimpleData name="field_1">45.503718999999997</SimpleData>
+		<SimpleData name="field_2">9.169807000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.169807,45.503719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dipartimento di Lingue di Fondazione Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Dipartimento di Lingue di Fondazione Milano</SimpleData>
+		<SimpleData name="field_1">45.504015899999999</SimpleData>
+		<SimpleData name="field_2">9.099544300000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.0995443,45.5040159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Via Davanzati e Via Guerzoni</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Via Davanzati e Via Guerzoni</SimpleData>
+		<SimpleData name="field_1">45.504025100000000</SimpleData>
+		<SimpleData name="field_2">9.174253400000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1742534,45.5040251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Politecnico di Milano - Campus Bovisa</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Politecnico di Milano - Campus Bovisa</SimpleData>
+		<SimpleData name="field_1">45.504188999999997</SimpleData>
+		<SimpleData name="field_2">9.164130000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.16413,45.504189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Niguarda</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Niguarda</SimpleData>
+		<SimpleData name="field_1">45.515326999999999</SimpleData>
+		<SimpleData name="field_2">9.193201000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.193201,45.515327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Quarto Oggiaro</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Quarto Oggiaro</SimpleData>
+		<SimpleData name="field_1">45.515506999999999</SimpleData>
+		<SimpleData name="field_2">9.130636000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.130636,45.515507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli studi di Milano Bicocca - Edificio U12</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli studi di Milano Bicocca - Edificio U12</SimpleData>
+		<SimpleData name="field_1">45.515963600000013</SimpleData>
+		<SimpleData name="field_2">9.212569400000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2125694,45.515963600000013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Affori</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Affori</SimpleData>
+		<SimpleData name="field_1">45.517014000000003</SimpleData>
+		<SimpleData name="field_2">9.168582000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.168582,45.517014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli studi di Milano Bicocca - Edificio U6</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli studi di Milano Bicocca - Edificio U6</SimpleData>
+		<SimpleData name="field_1">45.518243900000002</SimpleData>
+		<SimpleData name="field_2">9.213935099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2139351,45.5182439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cernusco sul Naviglio - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cernusco sul Naviglio - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.523254999999999</SimpleData>
+		<SimpleData name="field_2">9.332689999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.33269,45.523255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Cassina Anna</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Cassina Anna</SimpleData>
+		<SimpleData name="field_1">45.525393999999999</SimpleData>
+		<SimpleData name="field_2">9.176758000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.176758,45.525394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Novate Milanese - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Novate Milanese - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.530079999999998</SimpleData>
+		<SimpleData name="field_2">9.142230000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.14223,45.53008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cargo</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cargo</SimpleData>
+		<SimpleData name="field_1">45.531229099999997</SimpleData>
+		<SimpleData name="field_2">9.189908200000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1899082,45.5312291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cassina De' Pecchi - Biblioteca Roberto Camerani</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cassina De' Pecchi - Biblioteca Roberto Camerani</SimpleData>
+		<SimpleData name="field_1">45.531827000000000</SimpleData>
+		<SimpleData name="field_2">9.409064000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.409064,45.531827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sesto S. Giovanni - Universit\u00e0 degli Studi di Milano</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Sesto S. Giovanni - Universit\u00e0 degli Studi di Milano</SimpleData>
+		<SimpleData name="field_1">45.532824499999997</SimpleData>
+		<SimpleData name="field_2">9.225687499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2256875,45.5328245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sesto S. Giovanni - Biblioteca dei ragazzi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Sesto S. Giovanni - Biblioteca dei ragazzi</SimpleData>
+		<SimpleData name="field_1">45.532824499999997</SimpleData>
+		<SimpleData name="field_2">9.225687499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2256875,45.5328245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sesto S. Giovanni - Spazio MIL</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Sesto S. Giovanni - Spazio MIL</SimpleData>
+		<SimpleData name="field_1">45.532825000000003</SimpleData>
+		<SimpleData name="field_2">9.225688000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.225688,45.532825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spazio Contemporaneo Carlo Talamucci</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Spazio Contemporaneo Carlo Talamucci</SimpleData>
+		<SimpleData name="field_1">45.534668000000003</SimpleData>
+		<SimpleData name="field_2">9.238868999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.238869,45.534668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bollate - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Bollate - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.542439999999999</SimpleData>
+		<SimpleData name="field_2">9.117740000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.11774,45.54244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Biblioteca Chiesa Rossa</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Biblioteca Chiesa Rossa</SimpleData>
+		<SimpleData name="field_1">45.545955999999997</SimpleData>
+		<SimpleData name="field_2">9.229452000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.229452,45.545956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cormano - Biblioteca Civica dei Ragazzi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cormano - Biblioteca Civica dei Ragazzi</SimpleData>
+		<SimpleData name="field_1">45.546884300000002</SimpleData>
+		<SimpleData name="field_2">9.173354900000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1733549,45.5468843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cormano - Biblioteca Civica Paolo Volont\u00e8</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cormano - Biblioteca Civica Paolo Volont\u00e8</SimpleData>
+		<SimpleData name="field_1">45.547690000000003</SimpleData>
+		<SimpleData name="field_2">9.166710000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.16671,45.54769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parabiago - Biblioteca Comunale</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Parabiago - Biblioteca Comunale</SimpleData>
+		<SimpleData name="field_1">45.557560000000002</SimpleData>
+		<SimpleData name="field_2">8.946510000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.94651,45.55756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cinisello Balsamo - Museo di Fotografia Contemporanea</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cinisello Balsamo - Museo di Fotografia Contemporanea</SimpleData>
+		<SimpleData name="field_1">45.558601799999998</SimpleData>
+		<SimpleData name="field_2">9.217045499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.2170455,45.5586018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cinisello Balsamo - Centro culturale Il Pertini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cinisello Balsamo - Centro culturale Il Pertini</SimpleData>
+		<SimpleData name="field_1">45.558690900000002</SimpleData>
+		<SimpleData name="field_2">9.214337000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.214337,45.5586909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cinisello Balsamo - Centro culturale Il Pertini</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Cinisello Balsamo - Centro culturale Il Pertini</SimpleData>
+		<SimpleData name="field_1">45.558690900000002</SimpleData>
+		<SimpleData name="field_2">9.214337000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.214337,45.5586909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universit\u00e0 degli Studi di Milano - Citt\u00e0 Studi</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Universit\u00e0 degli Studi di Milano - Citt\u00e0 Studi</SimpleData>
+		<SimpleData name="field_1">45.570408299999997</SimpleData>
+		<SimpleData name="field_2">9.179332499999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.1793325,45.5704083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lainate - Biblioteca Ariston</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Lainate - Biblioteca Ariston</SimpleData>
+		<SimpleData name="field_1">45.570861999999998</SimpleData>
+		<SimpleData name="field_2">9.026080000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.02608,45.570862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Legnano - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Legnano - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.599760000000003</SimpleData>
+		<SimpleData name="field_2">8.913399999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.9134,45.59976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Legnano - Museo Civico Guido Sutermeister</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Legnano - Museo Civico Guido Sutermeister</SimpleData>
+		<SimpleData name="field_1">45.602581200000003</SimpleData>
+		<SimpleData name="field_2">8.912387300000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.9123873,45.6025812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arcore Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Arcore Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.625521900000003</SimpleData>
+		<SimpleData name="field_2">9.322929000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.322929,45.6255219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Meda - Biblioteca</name>
+	<ExtendedData><SchemaData schemaUrl="#mapbook">
+		<SimpleData name="Name">Meda - Biblioteca</SimpleData>
+		<SimpleData name="field_1">45.661608000000001</SimpleData>
+		<SimpleData name="field_2">9.160697000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.160697,45.661608</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
